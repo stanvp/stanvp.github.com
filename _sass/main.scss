@@ -1,0 +1,35 @@
+.profile-photo {
+    border-radius: 49.9%;
+    width: 130px;
+    height: 130px;
+    margin-right: 10px;
+    margin-top: -20px;
+    float: left;
+}
+
+.profile-contacts li {
+    list-style: none;
+    float: left;
+    margin-right: 10px;
+}
+
+.profile-contacts {
+    overflow: hidden;
+}
+
+.profile-contacts li img {
+    width: 20px;
+}
+
+.profile-contacts li img.email {
+    vertical-align: bottom;
+}
+
+.profile-contacts li img.linkedin {
+    vertical-align: text-bottom;
+}
+
+.profile-contacts li img.scholar {
+    vertical-align: text-top;
+    width: 20px;
+}

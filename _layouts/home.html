@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  <img class="profile-photo" src="{{ page.photo }}" alt="profile photo">
+
+  <ul class="profile-contacts">
+    <li><a class="u-email" href="mailto:{{ site.email }}"><img class="email" src="/assets/images/envelope.svg" alt="Email"> {{ site.email }}</a></li>
+    <li><a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><img class="linkedin" src="/assets/images/linkedin-in.svg" alt="LinkedIn"> LinkedIn</a></li>
+    <li><a href="{{ site.scholar_profile }}"><img class="scholar" src="/assets/images/scholar.svg" alt="Google Scholar"> Google Scholar</a></li>
+  </ul>
+
+  {{ content }}
+
+  {%- if false -%}
+  <h1>Posts</h1>
+
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    <li>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    </li>
+    {%- endfor -%}
+  </ul>
+  {%- endif -%}
+
+</div>
