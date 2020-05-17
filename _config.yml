@@ -27,6 +27,7 @@ url: "https://stanvp.com" # the base hostname & protocol for your site, e.g. htt
 github_username:  stanvp
 linkedin_username: speshterliev
 scholar_profile: https://scholar.google.com/citations?user=ObRBClgAAAAJ&hl=en&oi=ao
+google_analytics: UA-35541144-1
 
 # Build settings
 theme: minima
