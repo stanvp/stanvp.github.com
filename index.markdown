@@ -6,7 +6,7 @@ layout: home
 photo: /assets/images/photo.jpg
 ---
 
-I am an Applied Scientist at Amazon Alexa AI. My research interests are in deep Learning, natural language processing, and virtual assistants. I was part of the team that launched the Alexa virtual-assistant in November 2014.
+I am an Applied Research Scientist at Facebook. Previously, I worked on Alexa NLU and ER teams at Amazon. My research interests are in deep Learning, natural language processing, and virtual assistants. I was part of the team that launched the Alexa virtual-assistant in November 2014.
 
 # Publications
 
