@@ -28,11 +28,11 @@ github_username:  stanvp
 linkedin_username: speshterliev
 scholar_profile: https://scholar.google.com/citations?user=ObRBClgAAAAJ&hl=en&oi=ao
 google_analytics: UA-35541144-1
+markdown: kramdown
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+plugins: []
 
 show_excerpts: true
 
