@@ -34,7 +34,9 @@ markdown: kramdown
 theme: minima
 plugins: []
 
+# Post settings
 show_excerpts: true
+permalink:  /:title.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.

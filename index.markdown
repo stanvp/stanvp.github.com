@@ -24,3 +24,7 @@ I am an Applied Research Scientist at Facebook. Previously, I worked on Alexa NL
 ["Web credibility: Features exploration and credibility prediction"](https://arxiv.org/abs/1807.07520). Alexandra Olteanu, Stan Peshterliev, Xin Liu, Karl Aberer. *ECIR* 2013.
 
 ["Semantic Retrieval Approach to Factoid Question Answering for Bulgarian"](https://arxiv.org/abs/1807.07520). Stan Peshterliev, Ivan Koychev. *S3T* 2012.
+
+# Professional Activities
+
+Reviewing: AAAI (2020), ACL (2020), EMNLP (2020 - Outstanding Reviewer), COLING (2020)
