@@ -10,6 +10,9 @@ I am an Applied Research Scientist at Facebook. Previously, I worked on Alexa's 
 
 # Publications
 
+["Conversational Answer Generation and Factuality for Reading Comprehension Question-Answering"](https://arxiv.org/abs/2103.06500). Stan Peshterliev, Barlas Oguz, Debojeet Chatterjee, Hakan Inan, Vikas Bhardwaj. *Preprint* (2021).
+
+["Robustly Optimized and Distilled Training for Natural Language Understanding"](https://arxiv.org/abs/2103.08809). Haytham ElFadeel and Stan Peshterliev. *Preprint* (2021).
 
 ["Unified Open-Domain Question Answering with Structured and Unstructured Knowledge"](https://arxiv.org/abs/2012.14610). Barlas Oguz, Xilun Chen, Vladimir Karpukhin, Stan Peshterliev, Dmytro Okhonko, Michael Schlichtkrull, Sonal Gupta, Yashar Mehdad, Scott Yih. *Preprint* (2020).
 
