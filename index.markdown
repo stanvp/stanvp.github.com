@@ -10,6 +10,10 @@ I am an Applied Research Scientist at Facebook. Previously, I worked on Alexa's 
 
 # Publications
 
+["Salient Phrase Aware Dense Retrieval: Can a Dense Retriever Imitate a Sparse One?"](https://arxiv.org/abs/2110.06918). Xilun Chen, Kushal Lakhotia, Barlas Oğuz, Anchit Gupta, Patrick Lewis, Stan Peshterliev, Yashar Mehdad, Sonal Gupta, Wen-tau Yih. *Preprint* (2021).
+
+["Decoupled Transformer for Scalable Inference in Open-domain Question Answering"](https://arxiv.org/abs/2108.02765). Haytham ElFadeel, Stan Peshterliev. *RANLP* (2021).
+
 ["Conversational Answer Generation and Factuality for Reading Comprehension Question-Answering"](https://arxiv.org/abs/2103.06500). Stan Peshterliev, Barlas Oguz, Debojeet Chatterjee, Hakan Inan, Vikas Bhardwaj. *Preprint* (2021).
 
 ["Robustly Optimized and Distilled Training for Natural Language Understanding"](https://arxiv.org/abs/2103.08809). Haytham ElFadeel and Stan Peshterliev. *Preprint* (2021).
@@ -32,4 +36,4 @@ I am an Applied Research Scientist at Facebook. Previously, I worked on Alexa's 
 
 # Professional Activities
 
-Reviewing: AAAI (2020), ACL (2020), EMNLP (2020 - Outstanding Reviewer), COLING (2020)
+Reviewing: AAAI (2020,2021), ACL (2020), EMNLP (2020 - Outstanding Reviewer,2021), COLING (2020)
