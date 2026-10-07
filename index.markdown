@@ -6,9 +6,11 @@ layout: home
 photo: /assets/images/photo.jpg
 ---
 
-I am an Applied Research Scientist at Facebook. Previously, I worked on Alexa's natural langauge understanding (NLU) and entity resulation (ER) at Amazon. My research interests are in deep Learning, natural language processing, and virtual assistants. I was part of the team that launched the Alexa virtual-assistant in November 2014.
+I am Staff Applied Scientist at Meta experienced in building and shipping large-scale ML systems across LLM post-training, agents, ranking, retrieval, and NLP. Previously, I worked on Alexa's natural langauge understanding (NLU) and entity resulation (ER) at Amazon. 
 
 # Publications
+
+["Improving opinion-based question answering systems through label error detection and overwrite"](https://arxiv.org/abs/2306.07499) Xiao Yang, Ahmed K Mohamed, Shashank Jain, Stan Peshterliev, Debojeet Chatterjee, Hanwen Zha, Nikita Bhalla, Gagan Aneja, Pranab Mohanty. Preprint (2023).
 
 ["Salient Phrase Aware Dense Retrieval: Can a Dense Retriever Imitate a Sparse One?"](https://arxiv.org/abs/2110.06918). Xilun Chen, Kushal Lakhotia, Barlas Oğuz, Anchit Gupta, Patrick Lewis, Stan Peshterliev, Yashar Mehdad, Sonal Gupta, Wen-tau Yih. *Preprint* (2021).
 
